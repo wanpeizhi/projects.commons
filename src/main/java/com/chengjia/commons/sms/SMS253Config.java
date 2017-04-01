@@ -4,11 +4,11 @@ public class SMS253Config {
 	/**
 	 *账号
 	 */
-	public static final String ACCOUNT_ID = "N6992033";
+	public static final String ACCOUNT_ID = "";
 	/**
 	 * 密码
 	 */
-	public static final String ACCOUNT_PW = "T9It57DhkL6d4f";
+	public static final String ACCOUNT_PW = "";
 	
 	/**
 	 * 发送地址
